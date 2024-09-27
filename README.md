@@ -13,7 +13,7 @@
 
 </div>
 
-# Hi, I'm Yiğit! 👋
+# Hi, I'm ADİL 👋
 
 I'm a passionate developer and creative thinker, exploring the endless possibilities of the digital world.
 
